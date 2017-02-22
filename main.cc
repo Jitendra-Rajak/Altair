@@ -9,7 +9,7 @@ int main()
 	c=add(a,b);
 	cout<<"Hello World!";
 	cout<<"summision is:"<<c;
-	cout<<"Welcome to PBSPro Altair Branch";
+	cout<<"Welcome to Altair Engineering India Pvt. Ltd. Bangalore";
 return 0;
 }
 
