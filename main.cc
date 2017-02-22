@@ -7,8 +7,9 @@ int main()
 	a=7;
 	b=10;
 	c=add(a,b);
-	cout<<"Hello World!"
+	cout<<"Hello World!";
 	cout<<"summision is:"<<c;
+	cout<<"Welcome to PBSPro Altair Branch";
 return 0;
 }
 
