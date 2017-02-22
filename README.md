@@ -1,4 +1,3 @@
-# Altair
-Altair Engineering Bangalore
-hi...gd mrng
-hello..........Happy diwali
+Altair Engineering India Pvt. Ltd. Bangalore
+Altair Engineering Troy
+
