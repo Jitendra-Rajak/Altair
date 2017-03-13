@@ -1,2 +1,3 @@
-# Altair
-Altair Engineering Bangalore
+Altair Engineering India Pvt. Ltd. Bangalore
+Altair Engineering Troy
+
